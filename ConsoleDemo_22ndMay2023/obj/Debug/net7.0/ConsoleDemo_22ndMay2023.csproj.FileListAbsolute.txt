@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\NeoSOFT_ShwetaKadam_12April2023\ConsoleDemo_22ndMay2023\bin\Debug\net7.0\ConsoleDemo_22ndMay2023.exe
+C:\Users\user\Desktop\NeoSOFT_ShwetaKadam_12April2023\ConsoleDemo_22ndMay2023\bin\Debug\net7.0\ConsoleDemo_22ndMay2023.deps.json
+C:\Users\user\Desktop\NeoSOFT_ShwetaKadam_12April2023\ConsoleDemo_22ndMay2023\bin\Debug\net7.0\ConsoleDemo_22ndMay2023.runtimeconfig.json
+C:\Users\user\Desktop\NeoSOFT_ShwetaKadam_12April2023\ConsoleDemo_22ndMay2023\bin\Debug\net7.0\ConsoleDemo_22ndMay2023.dll
+C:\Users\user\Desktop\NeoSOFT_ShwetaKadam_12April2023\ConsoleDemo_22ndMay2023\bin\Debug\net7.0\ConsoleDemo_22ndMay2023.pdb
+C:\Users\user\Desktop\NeoSOFT_ShwetaKadam_12April2023\ConsoleDemo_22ndMay2023\obj\Debug\net7.0\ConsoleDemo_22ndMay2023.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\NeoSOFT_ShwetaKadam_12April2023\ConsoleDemo_22ndMay2023\obj\Debug\net7.0\ConsoleDemo_22ndMay2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\NeoSOFT_ShwetaKadam_12April2023\ConsoleDemo_22ndMay2023\obj\Debug\net7.0\ConsoleDemo_22ndMay2023.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\NeoSOFT_ShwetaKadam_12April2023\ConsoleDemo_22ndMay2023\obj\Debug\net7.0\ConsoleDemo_22ndMay2023.AssemblyInfo.cs
+C:\Users\user\Desktop\NeoSOFT_ShwetaKadam_12April2023\ConsoleDemo_22ndMay2023\obj\Debug\net7.0\ConsoleDemo_22ndMay2023.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NeoSOFT_ShwetaKadam_12April2023\ConsoleDemo_22ndMay2023\obj\Debug\net7.0\ConsoleDemo_22ndMay2023.dll
+C:\Users\user\Desktop\NeoSOFT_ShwetaKadam_12April2023\ConsoleDemo_22ndMay2023\obj\Debug\net7.0\refint\ConsoleDemo_22ndMay2023.dll
+C:\Users\user\Desktop\NeoSOFT_ShwetaKadam_12April2023\ConsoleDemo_22ndMay2023\obj\Debug\net7.0\ConsoleDemo_22ndMay2023.pdb
+C:\Users\user\Desktop\NeoSOFT_ShwetaKadam_12April2023\ConsoleDemo_22ndMay2023\obj\Debug\net7.0\ConsoleDemo_22ndMay2023.genruntimeconfig.cache
+C:\Users\user\Desktop\NeoSOFT_ShwetaKadam_12April2023\ConsoleDemo_22ndMay2023\obj\Debug\net7.0\ref\ConsoleDemo_22ndMay2023.dll
